@@ -1,7 +1,5 @@
 # Jam's st (0.8.4) - simple terminal
 
-## NOTE: NOT YET CONFIGURED AND PATCHED!!!
-
 ## About
 st is a simple terminal emulator for X which sucks less created by [suckless guys](https://suckless.org/). This is my build of st include number of patches installed and some minor tweaks.
 
