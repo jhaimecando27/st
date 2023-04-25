@@ -3,11 +3,16 @@ st is a simple terminal emulator for X which sucks less.
 
 
 # Requirements
-In order to build st you need the Xlib header files.
+In order to build st you need the Xlib header files. (the font is optional make sure to change it in config file)
 
-# Ubuntu
+## Ubuntu
 ```sh
-apt install libx11-dev libxft-dev
+apt install libx11-dev libxft-dev fonts-jetbrains-mono
+```
+
+## Fedora
+```sh
+dnf install libX11-devel libXft-devel jetbrains-mono-fonts
 ```
 
 
